@@ -8,7 +8,7 @@
 
 ### 桌面跨平台
 
-1. elctroin
+1. electron
 2. nw.js
 3. Qt
 
