@@ -2,12 +2,5 @@
   "gitbook": "3.2.3",
   "structure": {
     "summary": "docs/README.md"
-  },
-  "plugins": ["edit-link", "prism"],
-  "pluginsConfig": {
-    "edit-link": {
-      "base": "https://github.com/aih5/note/tree/master",
-      "label": "开始纠错"
-    }
   }
 }
