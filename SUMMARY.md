@@ -5,7 +5,6 @@ JavaScript
 1. [捕获页面中全局Javascript异常](#)
 2. 0.1+0.2=0.30000000000000004
 
-3. 
 CSS
 
 HTML
